@@ -1,3 +1,3 @@
-module github.com/greyh4t/dnscache
+module github.com/ginxliu/dnscache
 
 go 1.14
